@@ -1,0 +1,39 @@
+- simple hello world
+- static blocks
+- non static blocks 
+- class loading using class name
+- using class name create an object without calling constructor dircetly
+
+- idea on objects
+- static methods and static variables
+- instance methods and instance variables
+
+- interfaces [ strategy design pattern ]
+- abstract classes [ template design pattern ]
+- factory method design pattern.
+
+- inheritance using classes / instance methods / instance variables / static variables / static methods / final classes / final variables / final methods // constants
+
+- inheritance use of super() constrcutor and super keyword 
+- inheritance constructor flow // explict call
+- inheritance static and non static flow 
+
+
+class A 
+{
+ //sttaic
+ // non static 
+ A(){}
+}
+
+class B extend A 
+{
+ //sttaic
+ // non static 
+ B(){}
+}
+
+App.java
+A a=new B():
+
+how to avoid debugging to enter jdk classes in eclipse
